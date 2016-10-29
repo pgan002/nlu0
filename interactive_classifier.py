@@ -87,6 +87,7 @@ class InteractiveClassifier(object):
         query = self.vectorizer.transform([line])
         print(self.classifier.predict(query))
       except KeyboardInterrupt:
+        print
         break
 
 
