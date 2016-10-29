@@ -21,7 +21,7 @@ def _read_data_file(file_name):
     return f.readlines()
 
 
-class InteractiveClassifier(object):
+class UtteranceClassifier(object):
   """
   This implementation assumes that the raw text data and vectorized data fit
   together into memory.
@@ -92,7 +92,7 @@ class InteractiveClassifier(object):
 
 
 def run():
-  classifier = InteractiveClassifier(MultinomialNB)
+  classifier = UtteranceClassifier(MultinomialNB)
   classifier.read_data()
   classifier.train_and_evaluate()
   classifier.classify_interactive()
