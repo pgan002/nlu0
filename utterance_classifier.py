@@ -38,6 +38,7 @@ class UtteranceClassifier(object):
   def read_data(self):
     """
     Read text lines from raw data files in the data directory.
+
     Return a list of lines in all files and a list of corresponding class labels.
     """
     file_names = os.listdir(DATA_DIR)
@@ -80,7 +81,7 @@ class UtteranceClassifier(object):
     self.classifier.fit(self.data, self.labels)
 
   def classify_interactive(self):
-    """Keep prompting for an utterance and classify it"""
+    """Keep prompting for an utterance and classifying it"""
     while True:
       try:
         line = raw_input('User utterance: ')
