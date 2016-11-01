@@ -13,7 +13,7 @@ from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.model_selection import cross_val_score
 
 
-DATA_DIR = 'data/raw_corrected_unique'
+DATA_DIR = 'data/corrected_unique'
 CV_FOLDS = 5  # Number of cross-validation folds for evaluating a classifier
 
 
