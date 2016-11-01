@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 # Interactive classifier of utterances. Examples are defined in the files in
 # directory DATA_DIR. Each data file represents a separate class and each line
 # is an example user utterance.
@@ -16,6 +18,7 @@ CV_FOLDS = 5  # Number of cross-validation folds for evaluating a classifier
 
 
 def _read_data_file(file_name):
+  print 'Read training data...'
   file_path = os.path.join(DATA_DIR, file_name)
   with open(file_path) as f:
     return f.readlines()
@@ -59,6 +62,7 @@ class UtteranceClassifier(object):
     Evaluate this classifier using cross validation and return a classifier
     trained on all the available data.
     """
+    print 'Training classifier...'
     self.vectorizer = CountVectorizer()
     self.classifier = self.classifier_class()
     pipeline = make_pipeline(self.vectorizer, self.classifier)
