@@ -9,11 +9,9 @@ import lxml.html
 URL_TEMPLATE = 'http://en.wikipedia.org/wiki/List_of_airports_by_IATA_code:_'
 DATA_DIR = 'data'
 
-airport_name_re = re.compile(r'([A-Za-z ]+) (Domestic|Regional|International )?')
-
-category = 'Airport|Airfield|Airstrip|Aircraft Field|Field|Airpark|Aerodrome|Air Base|Air Force Base|Seaplane Base|RAF|Airbase|Air Park'
 
 data = []
+
 
 def get_and_parse_htmls():
   global data
