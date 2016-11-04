@@ -1,35 +1,15 @@
 A burger please
-American
 American food
-Are American girls fat
-Bank holiday weekend
-Bar
-Bar bar black sheep
-Bar bar black sheep have U any wool
-Bar the builder
 Best places to eat in Sparkwell
 Best places to get food in Sparkwell Plymouth
 Best place to drink in Leeds
-British premiership football results
-British premiership soccer results
-Buy bitch
-Buy good stuff what do you mean
-Buy have
 Buy me a pizza
 Buy me a takeaway
-Buy new smart watch
 Buy pizza at Pizza Hut today
-Buy sleeping
-Buy train tickets from Bolton to Manchester
 Can I buy cupcakes
-Can I get
 Can I get a haircut
 Can I get a taxi to Glasgow airport please
-Can I get Tumblr on this
 Can I get Wyberg on
-Can I get your number
-Chinese
-Chinese firm travel roof
 Chinese food
 Chinese restaurant close by
 Chinese restaurants
@@ -37,19 +17,9 @@ Chinese restaurants in London
 Chinese takeaway
 Chinese takeaway near my location
 Cinema
-Cinema timings for captain America
 Closest gym
 Closest restaurant
-Dentist my mum AneedA
-Doctor Who
-Do I get to Epsom
 Eat food
-European championship football results
-European football
-European football championship
-European football championships 2016
-European football results
-European Union
 Find a burger restaurant
 Find accountants
 Find a clinic
@@ -57,7 +27,6 @@ Find a drugstore
 Find a grocery store near me
 Find American restaurant
 Find a Mexican restaurant
-Find a Mexican restaurant in Mexico
 Find an Indian restaurant nearby
 Find an Italian restaurant
 Find a restaurant
@@ -224,7 +193,6 @@ Find me hospital
 Find me hospitals
 Find me hospitals in Barcelona
 Find me hospitals in Chicago
-Find me Indian
 Find me Indian restaurant
 Find me Indian restaurants
 Find me Irish pubs
@@ -387,22 +355,8 @@ Food
 For a nearby restaurant
 For restaurant
 German food
-Get
-Get a bit sassy now
-Get a new one
 Get an Uber
 Get an uberX
-Get are you why
-Get back to the music
-Get down to business
-Get drunk AneedA
-Get Facebook.com
-Get headlines for a category
-Get headlines for new of for her business
-Get info for me when you
-Get info from prince George
-Get info on prince George
-Get Maine over
 Get me a biscuit
 Get me a cab
 Get me a car to JFK
@@ -417,64 +371,19 @@ Get me around Hollywood
 Get me a stripper
 Get me a taxi
 Get me a uber
-Get me business Henry
-Get me NatWest customer number
-Get me news from India
-Get me news headlines
-Get me over
-Get me over to LAX
-Get me pictures of monkeys
-Get me right to Elliotts
 Get me some food
 Get me some ice cream
 Get me some takeaway
 Get me the number for Lahore spices
 Get me the number for Pizza Hut
 Get me to the restaurant
-Get me trains from Manchester to born
-Get me train times from Bolton to Manchester
-Get me train times to Cardiff
-Get news headline
-Get news headlines
-Get next
-Get out of my swamp
-Get skill
-Get stock price
-Get tickets to Adele
-Get what's up with business
-Get you doing very well
 Golf course
 Hospitals nearby
-How can I get on my twitter
-How can I get rid of my spots on my day
-How can I get rid of spots
 How do I find a restaurant
 How do I find Mexican restaurants
 How do I find nearest hospital
 How do I find restaurant
 How do I find restaurants
-How do I get
-How do I get a Ben
-How do I get Facebook
-How do I get from Blackpool to Weymouth by car
-How do I get it
-How do I get news and information
-How do I get similar artists
-How do I get stock prices
-How do I get the last test news
-How do I get the latest news
-How do I get the news
-How do I get the similarities
-How do I get to the latest news
-How do I get vibe
-How do I get what's up
-How do I get you to find music on the Internet
-How do I get you to find things on the Internet
-How do I get you to remember things
-How do I get you to remember things like where I work my birthday my name
-How do I get you to remember things that my name my birthday where I work
-How I get it
-Hungarian
 Hungry for burgers
 Hungry for Chinese
 Hungry for Chinese food
@@ -517,18 +426,7 @@ I am looking for sushi restaurant in Paris
 I am looking for sushi restaurants in Chicago
 I am looking for sushi restaurants in downtown Los Angeles
 I am looking for the best sushi restaurant
-I am Scottish
-I am vegetarian
-I am want to buy mattress
-I get
-I get a missed call
-I get that a lot
-I get the feeling you're being sarcastic
-I get up at six
-I like Italian food close by
-Indian
 Indian food
-Indian news
 Indian restaurant
 Indian restaurants in Chicago
 Indian restaurants in Plymouth
@@ -539,7 +437,6 @@ I need an Italian restaurant
 I need a pizza restaurant
 I need a place Superdawg
 I need a place to eat in Plymouth
-I need a place to hide a body
 I need a restaurant
 I need a sandwich
 I need Chinese food
@@ -548,6 +445,7 @@ I need Indian restaurant
 I need pizza
 I need sushi
 I need to buy a mattress
+I am want to buy mattress
 I need to buy a new car
 I need to buy a new iPhone
 I need to buy a new laptop
@@ -566,9 +464,7 @@ I need to buy sports equipment
 I need to buy toys
 I need to buy toys for kids
 I need to buy yoga lessons
-I need to get a DJ
 I need to get a good lawyer
-I need to get Ahearn Meyer
 I need to get a new bike
 I need to get a personal Trainer
 I need to get a stripper for a bachelor party
@@ -579,9 +475,6 @@ I need to purchase tickets
 I need to shop for groceries
 I need to shop for something
 I need to shop for suits
-In the mood for Indian please help me
-Irish music
-Is a good place to get the paint locally
 Is the nearest restaurant to me
 Italian
 Italian restaurant
@@ -596,19 +489,15 @@ I want Mexican
 I want sushi
 I want sushi restaurants
 I want the sushi restaurant
-I want to buy
 I want to buy a car
-I want to buy a helicopter
 I want to buy a mattress
 I want to buy a pressure washer in Swindon
 I want to buy matches
-I want to buy P
 I want to buy pizza
 I want to buy shoes
 I want to buy sushi
 I want to buy swimsuits
 I want to buy tortillas
-I want to buy your car
 I want to eat Chinese
 I want to eat Chinese food
 I want to eat Mexican
@@ -617,9 +506,7 @@ I want to eat nearby
 I want to eat pizza
 I want to eat Ramen
 I want to eat sushi
-I want to get
 I want to get organic food
-I want to pick up the sheets
 I want Vietnamese food
 Look for coffee shops
 Look for hospitals nearby
@@ -651,19 +538,15 @@ Nearest Chinese in my location
 Nearest Chinese restaurant to my home
 Nearest cocktail bar
 Need a restaurant
-Need to get a software so
 Noodle head
 Pancakes
 Pharmacy
 Pharmacy centres nearby
 Pizza
 Pizza I am hungry for pizza
-Place a song
-Place boys and girls by will.i.am
 Places a paper rock
 Places to eat
 Places to eat in Waterloo
-Plumber feed
 Pub nearest pub
 Restaurant
 Restaurants in Northampton
@@ -671,17 +554,7 @@ Restaurants in Westwood
 Restaurants local
 Restaurants nearby
 Restaurant week
-Russian Roulette
-Russian Roulette please
-Scottish
-Shop
 Shopping centres nearby
-Should I buy a new dress
-Should I buy an iPhone
-Should I buy you
-Should I buy you or an Apple watch
-Should I drink some beers tonight
-Should I ice cream
 Show bars nearby
 Show best restaurants around me
 Show Chinese restaurants in London
@@ -782,7 +655,6 @@ Show me nearest Chinese restaurant
 Show me nearest hospital
 Show me pharmacies nearby
 Show me pizza places nearby
-Show me places nearby
 Show me places that have Thai food
 Show me Polish restaurants in Chicago
 Show me Portuguese restaurants in London
@@ -832,7 +704,6 @@ Show me Thai restaurants in Los Angeles
 Show me Thai restaurants nearby
 Show me the best Chinese restaurant in Leigh Lancashire
 Show me the best restaurant
-Show me the cinema artists
 Show me the closest Thai restaurant
 Show me the nearest bar
 Show me the nearest Chinese restaurant
@@ -866,38 +737,23 @@ Show sushi restaurant
 Show sushi restaurants in Beverly Hills
 Show the nearest restaurant
 Spanish speaking
-Sushi
 Sushi restaurant nearby
-Sweet
-Sweet dreams
-Sweet dreams mind the bugs don't bite
-Sweet yummy chocolatey
 Thai food
 The best place for dogging
 The best place to be out in Plymouth
-The club
 The nearest Chinese restaurant
 The nearest hospital
-To get to London from Peterborough
 What are good restaurants around me
 What are the best places to go dogging
-What are the cinema
 What are the closest restaurants around here
-What are the European
-What are the European football scores
 What can I get to eat around here
-What food do you like
-What food is good reindeer
-What is for dinner
 What is the best bar in Los Angeles
 What is the best bar in Singapore
 What is the best restaurant in Los Angeles
 What is the best restaurants in Delhi
 What is the best restaurants in Los Angeles
 What is the closest Chinese restaurant
-What is the dinner
 What is the nearest hospital
-What restaurant
 What restaurants are around here
 What restaurants are good
 What restaurants are near here
@@ -906,7 +762,6 @@ What's the best Chinese food
 What's the closest restaurant
 What's the nearest Chinese restaurant
 Where are Mexican restaurants nearby
-Where can I buy
 Where can I buy a bag
 Where can I buy a ball of wine
 Where can I buy a barbecue
@@ -939,7 +794,6 @@ Where can I buy chocolates
 Where can I buy coffee from in Truro
 Where can I buy computer cables
 Where can I buy computers in Chicago
-Where can I buy crack cocaine
 Where can I buy cupcakes
 Where can I buy cupcakes in London
 Where can I buy deodorant
@@ -952,7 +806,6 @@ Where can I buy froyo
 Where can I buy frozen yoghurt
 Where can I buy groceries
 Where can I buy Halloween costumes
-Where can I buy heroine
 Where can I buy LAFTC Yaist
 Where can I buy laptops
 Where can I buy mattress
@@ -985,7 +838,6 @@ Where can I find a sushi restaurant
 Where can I find hospital
 Where can I find sushi
 Where can I find sushi restaurant
-Where can I get
 Where can I get a big juicy burger
 Where can I get a birthday cake
 Where can I get a digital camera
@@ -1003,7 +855,6 @@ Where can I get a party does
 Where can I get a Sim card
 Where can I get bike parts from
 Where can I get birthday cakes
-Where can I get bogus
 Where can I get booze
 Where can I get breakfast from
 Where can I get chicken and waffles
@@ -1017,40 +868,33 @@ Where can I get electronics
 Where can I get food
 Where can I get fruit
 Where can I get good begets am
-Where can I get it
 Where can I get Italian food
 Where can I get new mattresses
 Where can I get new skills
-Where can I get one
 Where can I get pancake
 Where can I get pancakes
 Where can I get Snapchat
-Where can I get some card
 Where can I get something to eat
 Where can I get some weed
 Where can I get sunglasses
 Where can I get this artificial grass
 Where can I get waffles
-Where can I get your book
 Where can I look to buy a mattress
 Where can I shop for books
 Where can I shop for wine
 Where do I get a new charger from
 Where do I get furniture
-Where do I get the one dial app
 Where do I get to dress
 Where is a good bar nearby
 Where is a good restaurant nearby
 Where is nearest restaurant
 Where is Pizza Hut
-Where is the best place to Ken pickup Betty
 Where is the closest hamburger bar
 Where is the closest Thai restaurant
 Where is the good hospital nearby
 Where is the nearest bar
 Where is the nearest Burger King
 Where is the nearest burger shop
-Where is the nearest Chinese
 Where is the nearest Chinese restaurant
 Where is the nearest Chinese takeaway
 Where is the nearest Chinese takeaway AneedA
@@ -1059,9 +903,7 @@ Where is the nearest club to me
 Where is the nearest coffee shop
 Where is the nearest food
 Where is the nearest hospital
-Where is the nearest Indian
 Where is the nearest Indian restaurant
-Where is the nearest Italian
 Where is the nearest Italian restaurant
 Where is the nearest Persian restaurant
 Where is the nearest Pizza Hut
@@ -1081,8 +923,6 @@ Where is the nearest Turkish restaurant
 Where should I eat for dinner
 Where should I eat lunch
 Where should I get soup
-Yelp
-Yelp a while
 Yelp birthday cakes
 Yelp burger
 Yelp car
