@@ -138,7 +138,7 @@ def compile_dict():
       airports_dict[short_name] = iata
       airports_dict[categorized_name] = iata
     else:
-      print short_name
+      pass
 
 
 parse_htmls()
